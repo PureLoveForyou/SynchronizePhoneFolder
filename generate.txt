@@ -1,0 +1,4 @@
+cd C:\Documents\Code\Python\SyncPhoneFolder>
+copy ftpSyncUI_v3.py GenerateExe\GenerateExelVersion\
+yes
+cd GenerateExe && activate temp && pyinstaller -F GenerateExelVersion\ftpSyncUI_v3.py --onefile --noconsole && deactivate && cd ..

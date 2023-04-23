@@ -1,0 +1,14 @@
+altgraph==0.17.2
+certifi==2020.6.20
+future==0.18.2
+importlib-metadata==4.8.3
+pefile==2021.9.3
+Pillow==8.4.0
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.0
+python-dateutil==2.8.1
+pywin32-ctypes==0.2.0
+six==1.16.0
+typing-extensions==4.1.1
+wincertstore==0.2
+zipp==3.6.0
